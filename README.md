@@ -9,7 +9,7 @@ __________                                                  .___                
                \/_____/     \/     \/           \/                   \/     \/            \//_____/            \/      \/
 
 			   Pegasus-Instagram
-			   Created by dr. Muhammad Sobri Maulana, CEH, OSCP
+			   Created by Muhammad Sobri Maulana
 
 			   
 Usage: instaBrute -h
