@@ -1,5 +1,4 @@
-
-Hack Instagram using Brute Force Technique
+BF Instagram
 ===========================================
 __________                                                  .___                 __                                       
 \______   \ ____   _________    ________ __  ______         |   | ____   _______/  |______     ________________    _____  
@@ -33,8 +32,6 @@ Features:
 Licensing
 * Open GNU/GL
 
-Thanks To
-* Synchronize Hacker Team
 
 How to use:
 * Open cmd
@@ -46,7 +43,7 @@ How to use:
 	OR
 	
     python
-	python Pegasus-Instagram.py -u pegasus.hacker -d dictionary.txt
+	python Pegasus-Instagram.py -u muhsobrimaulana_ -d dictionary.txt
 
 Warning
 * Before using this script.
